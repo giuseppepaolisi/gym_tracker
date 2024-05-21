@@ -64,7 +64,7 @@ The Gym Tracker application is designed to help users track objects in gym worko
 
 ## Project Structure
 
-    ```graphql
+    ```bash
     gym-tracker/
     │
     ├── main.py                # Entry point for the application
@@ -75,5 +75,4 @@ The Gym Tracker application is designed to help users track objects in gym worko
     └── icons/                 # Icons for the application
         ├── play.png
         └── pause.png
-
     ```
