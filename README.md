@@ -61,18 +61,3 @@ The Gym Tracker application is designed to help users track objects in gym worko
 
 6. **Back to Original Video**:
     - Click on the "Back to Original Video" button to return to the original untracked video.
-
-## Project Structure
-
-    ```bash
-    gym-tracker/
-    │
-    ├── main.py                # Entry point for the application
-    ├── video_player.py        # Contains the VideoPlayer class
-    ├── object_tracker.py      # Contains the ObjectTracker, ROISelector, and TrackingWindow classes
-    ├── utils.py               # Utility functions
-    ├── requirements.txt       # Project dependencies
-    └── icons/                 # Icons for the application
-        ├── play.png
-        └── pause.png
-    ```
